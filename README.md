@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**julietamullen/julietamullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+My name is Julieta and I'm a self-taught IT student, currently learning ReactJS!  
+Also with knowledge about HTML, CSS, Sass and Javascript.  
 
-Here are some ideas to get you started:
+##Projects
+I'm a languages enthusiast (and learning japanese at the moment), so I enjoy facing my projects towards language learning.  
+You can see my two japanese oriented apps deployed at:
+**Hiragana Flashcards**: https://hiragana-flashcards-seven.vercel.app/ (ReactJS)
+**Colors Flashcards**: https://japanesecolors.vercel.app/ (Vanilla JavaScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And my first ReactJS project:
+**To-Do List**: https://todolist-react-nine.vercel.app/  
+  
+Hope you find this interesting!
