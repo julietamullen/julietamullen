@@ -1,7 +1,11 @@
 ### Welcome!
 Hello there! My name is Julieta and I'm a self-taught IT student, currently learning ReactJS! 
 
-I'm a languages enthusiast (learning japanese at the moment), so I enjoy facing my projects towards language learning.  
+I'm a languages enthusiast (learning japanese at the moment), so I enjoy facing my projects towards language learning.
+
+### Portfolio
+
+* https://julietamullen.vercel.app (ReactJS and Sass)
 
 ### Most recent projects
 
